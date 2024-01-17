@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/pathfinding-visualizer/static/css/main.cb560104.css",
+    "main.js": "/pathfinding-visualizer/static/js/main.8b4460ef.js",
+    "index.html": "/pathfinding-visualizer/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cb560104.css",
+    "static/js/main.8b4460ef.js"
+  ]
+}
